@@ -1,4 +1,4 @@
-# Solana Rust Assignment
+# Solana Rust 
 
 A Rust client project for practicing SPL tokens and Metaplex Core assets on Solana Devnet.
 
